@@ -1,0 +1,10 @@
+
+file2:
+add some content
+<import>
+file1:  
+add some content
+
+
+
+
